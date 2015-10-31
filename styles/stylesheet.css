@@ -1,0 +1,99 @@
+<head>
+<style>
+p {
+	font-size: 25px;
+	color: gray;
+}
+.header {
+	border-bottom: 2px solid white;
+	margin: 90px 85px 90px 85px;
+	padding: 0px 0px 25px 0px;
+}
+h1 {
+	font-family: georgia, serif;
+	text-align: center;
+	font-size: 80px;
+}
+.header__nav--borderright {
+	border-right: 2px solid white;
+	padding-right: 12px;
+
+}
+.header__nav--marginleft {
+	margin-left: 12px;
+	color: solid white;
+}
+
+ul {
+	text-align: center;
+	font-size: 25px;
+}
+li {
+	margin-left: 45px;
+	display: inline;
+}
+p.resume {
+	font-family: 
+}
+p {
+	margin: 0px 85px 0px 85px;
+	font-size: 20px;
+	color: gray;
+}
+h2 {
+	font-family: arial;
+	font-size: 55px;
+}
+h3 {
+	margin: 0px 85px 0px 85px;
+	font-family: arial;
+	letter-spacing: 2px;
+	font-size: 35px;
+}
+
+.resume {margin: 0px 85px 45px 85px;
+}
+
+a {
+	color: green;
+}
+
+
+.experience {
+	margin-left: 85px;
+}
+.experience__item {
+
+	text-align: left;
+	padding: 25px 0px;
+	
+}
+.experience__item--title {
+	color: white;
+}
+
+.education {
+	text-align: left;
+	margin-left: 85px;
+	
+}
+.education__item {
+	display: block;
+	padding: 25px 0px 25px 0px;
+
+}
+.footer {
+	border-top: 2px solid white;
+	padding: 50px 0px;
+	margin: 90px 85px 0px 85px;
+}
+.footer__nav--borderright {
+	border-right: 2px solid white;
+	padding-right: 30px;
+
+}
+.footer__nav--marginleft {}
+
+</style>
+
+</head>
